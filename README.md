@@ -90,9 +90,9 @@
 ## <div align="center">📊 GitHub Insights 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedyoussef98&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedyoussef98&theme=transparent&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedyoussef98&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedyoussef98&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## <div align="center">🌐 Connect & Explore 🌐</div>
