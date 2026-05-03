@@ -9,7 +9,17 @@
 ## <div align="center">🧩 Automation & Tech Stack 🧩</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,react,supabase,postgres,github,gcp,tailwind,nodejs,js,docker" />
+  <!-- Core Dev Stack (Individual Icons for Hover/Animation) -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=supabase" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" /></a>
 </div>
 
 <br />
@@ -18,15 +28,15 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://simpleicons.org/icons/n8n.svg" alt="n8n" width="40" height="40" />
+        <img src="https://cdn.simpleicons.org/n8n/FF6D5A" alt="n8n" width="45" height="45" />
         <br>n8n
       </td>
       <td align="center" width="120">
-        <img src="https://simpleicons.org/icons/odoo.svg" alt="Odoo" width="40" height="40" />
+        <img src="https://cdn.simpleicons.org/odoo/875A7B" alt="Odoo" width="45" height="45" />
         <br>Odoo
       </td>
       <td align="center" width="120">
-        <img src="https://simpleicons.org/icons/zapier.svg" alt="Zapier" width="40" height="40" />
+        <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="45" height="45" />
         <br>Zapier
       </td>
     </tr>
@@ -44,9 +54,9 @@
 ## <div align="center">📊 GitHub Insights 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedyoussef98&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedyoussef98&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedyoussef98&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedyoussef98&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## <div align="center">🌐 Connect with Me 🌐</div>
