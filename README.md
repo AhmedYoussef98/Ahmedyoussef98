@@ -18,15 +18,15 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" alt="n8n" width="40" height="40" />
+        <img src="https://simpleicons.org/icons/n8n.svg" alt="n8n" width="40" height="40" />
         <br>n8n
       </td>
       <td align="center" width="120">
-        <img src="https://static.cdnlogo.com/logos/o/1/odoo.svg" alt="Odoo" width="40" height="40" />
+        <img src="https://simpleicons.org/icons/odoo.svg" alt="Odoo" width="40" height="40" />
         <br>Odoo
       </td>
       <td align="center" width="120">
-        <img src="https://img.icons8.com/color/48/zapier.png" alt="Zapier" width="40" height="40" />
+        <img src="https://simpleicons.org/icons/zapier.svg" alt="Zapier" width="40" height="40" />
         <br>Zapier
       </td>
     </tr>
@@ -44,9 +44,9 @@
 ## <div align="center">📊 GitHub Insights 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedyoussef98&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedyoussef98&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedyoussef98&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedyoussef98&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ## <div align="center">🌐 Connect with Me 🌐</div>
