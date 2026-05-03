@@ -6,56 +6,28 @@
   </a>
 </div>
 
+## <div align="center">🧩 Automation & Tech Stack 🧩</div>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedyoussef98&color=2BA2DC" alt="Profile Views"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,react,supabase,postgres,github,gcp,tailwind,nodejs,js,docker" />
 </div>
 
-## <div align="center">🧩 Automation & Tech Stack 🧩</div>
+<br />
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="48" height="48" />
-        <br>NextJS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48" />
-        <br>Supabase
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" width="48" height="48" />
+      <td align="center" width="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" alt="n8n" width="40" height="40" />
         <br>n8n
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-        <br>GitHub
+      <td align="center" width="120">
+        <img src="https://static.cdnlogo.com/logos/o/1/odoo.svg" alt="Odoo" width="40" height="40" />
+        <br>Odoo
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" height="48" />
-        <br>Google Cloud
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
-        <br>Tailwind
+      <td align="center" width="120">
+        <img src="https://img.icons8.com/color/48/zapier.png" alt="Zapier" width="40" height="40" />
+        <br>Zapier
       </td>
     </tr>
   </table>
@@ -65,8 +37,8 @@
 
 <div align="center">
   <p>🚀 Developing multi-instance workflows in <b>Camunda 7</b></p>
-  <p>🛠️ Building <b>Secret Technical Solutions (STS)</b> - Automation Portfolio</p>
   <p>🤖 Scaling Agentic AI workflows for business efficiency</p>
+  <p>🔄 Building reusable automation templates and patterns</p>
 </div>
 
 ## <div align="center">📊 GitHub Insights 📊</div>
