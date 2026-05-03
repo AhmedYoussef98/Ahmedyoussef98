@@ -2,42 +2,78 @@
 
 <div align="center">
   <a href="https://github.com/Ahmedyoussef98">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2BA2DC&center=true&vCenter=true&random=false&width=600&height=100&lines=Technical+Project+Manager;Automation+Engineer;n8n+%26+Camunda+Expert;AI+Agent+Architect;Business+Process+Optimizer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2BA2DC&center=true&vCenter=true&random=false&width=600&height=100&lines=Technical+Project+Manager;Automation+Engineer;n8n+%26+Camunda+Expert;AI+Agent+Architect;Business+Process+Optimizer" alt="Typing SVG" />
   </a>
 </div>
 
-## <div align="center">🧩 Automation & Tech Stack 🧩</div>
-
-<div align="center">
-  <!-- Core Dev Stack (Individual Icons for Hover/Animation) -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=supabase" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" /></a>
-</div>
-
-<br />
+## <div align="center">🧩 Tech Stack 🧩</div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/n8n/FF6D5A" alt="n8n" width="45" height="45" />
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="48" height="48" />
+        <br>NextJS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48" />
+        <br>Supabase
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Postgres" width="48" height="48" />
+        <br>Postgres
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" width="48" height="48" />
+        <br>REST
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/n8n/FF6D5A" alt="n8n" width="48" height="48" />
         <br>n8n
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/odoo/875A7B" alt="Odoo" width="45" height="45" />
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/odoo/875A7B" alt="Odoo" width="48" height="48" />
         <br>Odoo
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="45" height="45" />
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="48" height="48" />
         <br>Zapier
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
+        <br>Vite
       </td>
     </tr>
   </table>
@@ -59,7 +95,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedyoussef98&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
-## <div align="center">🌐 Connect with Me 🌐</div>
+## <div align="center">🌐 Connect & Explore 🌐</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/ahmed-youssef-45a3181a3">
