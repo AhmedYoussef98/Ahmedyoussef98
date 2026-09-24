@@ -79,14 +79,6 @@
   </table>
 </div>
 
-## <div align="center">🔭 Current Focus 🔭</div>
-
-<div align="center">
-  <p>🚀 Developing multi-instance workflows in <b>Camunda 7</b></p>
-  <p>🤖 Scaling Agentic AI workflows for business efficiency</p>
-  <p>🔄 Building reusable automation templates and patterns</p>
-</div>
-
 ## <div align="center">📊 GitHub Insights 📊</div>
 
 <div align="center">
