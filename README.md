@@ -20,7 +20,7 @@
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="48" height="48" />
+        <img src="assets/icons/nextdotjs-icon.svg" alt="NextJS" width="48" height="48" />
         <br>NextJS
       </td>
       <td align="center" width="96">
@@ -28,13 +28,13 @@
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48" />
+        <img src="assets/icons/supabase-icon.svg" alt="Supabase" width="48" height="48" />
         <br>Supabase
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="48" height="48" />
+        <img src="assets/icons/postgresql-icon.svg" alt="Postgres" width="48" height="48" />
         <br>Postgres
       </td>
       <td align="center" width="96">
@@ -42,7 +42,7 @@
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+        <img src="assets/icons/tailwindcss-icon.svg" alt="Tailwind" width="48" height="48" />
         <br>Tailwind
       </td>
       <td align="center" width="96">
@@ -56,45 +56,45 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/n8n/FF6D5A" alt="n8n" width="48" height="48" />
+        <img src="assets/icons/n8n-icon.svg" alt="n8n" width="48" height="48" />
         <br>n8n
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/odoo/875A7B" alt="Odoo" width="48" height="48" />
+        <img src="assets/icons/odoo-icon.svg" alt="Odoo" width="48" height="48" />
         <br>Odoo
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="48" height="48" />
+        <img src="assets/icons/zapier-icon.svg" alt="Zapier" width="48" height="48" />
         <br>Zapier
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+        <img src="assets/icons/aws-icon.svg" alt="AWS" width="48" height="48" />
         <br>AWS
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
+        <img src="assets/icons/vite-icon.svg" alt="Vite" width="48" height="48" />
         <br>Vite
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="48" height="48" />
+        <img src="assets/icons/kotlin-icon.svg" alt="Kotlin" width="48" height="48" />
         <br>Kotlin
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48" height="48" />
+        <img src="assets/icons/springboot-icon.svg" alt="Spring Boot" width="48" height="48" />
         <br>Spring Boot
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+        <img src="assets/icons/mysql-icon.svg" alt="MySQL" width="48" height="48" />
         <br>MySQL
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/liquibase/2962FF" alt="Liquibase" width="48" height="48" />
+        <img src="assets/icons/liquibase-icon.svg" alt="Liquibase" width="48" height="48" />
         <br>Liquibase
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="48" height="48" />
+        <img src="assets/icons/gradle-icon.svg" alt="Gradle" width="48" height="48" />
         <br>Gradle
       </td>
     </tr>
