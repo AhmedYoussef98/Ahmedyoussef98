@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Ahmedyoussef98">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2BA2DC&center=true&vCenter=true&random=false&width=600&height=100&lines=Technical+Project+Manager;Automation+Engineer;n8n+Automation+Expert;AI+Agent+Architect;Business+Process+Optimizer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2BA2DC&center=true&vCenter=true&random=false&width=600&height=100&lines=Technical+Project+Manager;Automation+Engineer;n8n+Automation+Expert;AI+Agent+Architect;Business+Process+Optimizer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,11 +12,11 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <img src="assets/icons/python-icon.svg" alt="Python" width="48" height="48" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+        <img src="assets/icons/ts-icon.svg" alt="TypeScript" width="48" height="48" />
         <br>TypeScript
       </td>
       <td align="center" width="96">
@@ -24,7 +24,7 @@
         <br>NextJS
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <img src="assets/icons/react-icon.svg" alt="React" width="48" height="48" />
         <br>React
       </td>
       <td align="center" width="96">
@@ -34,11 +34,11 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Postgres" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="48" height="48" />
         <br>Postgres
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+        <img src="assets/icons/github-icon.svg" alt="GitHub" width="48" height="48" />
         <br>GitHub
       </td>
       <td align="center" width="96">
@@ -46,11 +46,11 @@
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+        <img src="assets/icons/docker-icon.svg" alt="Docker" width="48" height="48" />
         <br>Docker
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" width="48" height="48" />
+        <img src="assets/icons/restapi-icon.svg" alt="REST" width="48" height="48" />
         <br>REST
       </td>
     </tr>
@@ -82,9 +82,9 @@
 ## <div align="center">📊 GitHub Insights 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedyoussef98&theme=transparent&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="assets/github-stats.svg" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedyoussef98&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="assets/top-languages.svg" alt="Top Languages" />
 </div>
 
 ## <div align="center">🌐 Connect & Explore 🌐</div>
