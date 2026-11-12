@@ -20,7 +20,10 @@
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="assets/icons/nextdotjs-icon.svg" alt="NextJS" width="48" height="48" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/icons/nextdotjs-icon-dark.svg" />
+          <img src="assets/icons/nextdotjs-icon.svg" alt="NextJS" width="48" height="48" />
+        </picture>
         <br>NextJS
       </td>
       <td align="center" width="96">
@@ -34,11 +37,17 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="assets/icons/postgresql-icon.svg" alt="Postgres" width="48" height="48" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/icons/postgresql-icon-dark.svg" />
+          <img src="assets/icons/postgresql-icon.svg" alt="Postgres" width="48" height="48" />
+        </picture>
         <br>Postgres
       </td>
       <td align="center" width="96">
-        <img src="assets/icons/github-icon.svg" alt="GitHub" width="48" height="48" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-icon-dark.svg" />
+          <img src="assets/icons/github-icon.svg" alt="GitHub" width="48" height="48" />
+        </picture>
         <br>GitHub
       </td>
       <td align="center" width="96">
@@ -60,7 +69,10 @@
         <br>n8n
       </td>
       <td align="center" width="96">
-        <img src="assets/icons/odoo-icon.svg" alt="Odoo" width="48" height="48" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/icons/odoo-icon-dark.svg" />
+          <img src="assets/icons/odoo-icon.svg" alt="Odoo" width="48" height="48" />
+        </picture>
         <br>Odoo
       </td>
       <td align="center" width="96">
@@ -68,7 +80,10 @@
         <br>Zapier
       </td>
       <td align="center" width="96">
-        <img src="assets/icons/aws-icon.svg" alt="AWS" width="48" height="48" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/icons/aws-icon-dark.svg" />
+          <img src="assets/icons/aws-icon.svg" alt="AWS" width="48" height="48" />
+        </picture>
         <br>AWS
       </td>
       <td align="center" width="96">
@@ -86,7 +101,10 @@
         <br>Spring Boot
       </td>
       <td align="center" width="96">
-        <img src="assets/icons/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/icons/mysql-icon-dark.svg" />
+          <img src="assets/icons/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+        </picture>
         <br>MySQL
       </td>
       <td align="center" width="96">
@@ -94,7 +112,10 @@
         <br>Liquibase
       </td>
       <td align="center" width="96">
-        <img src="assets/icons/gradle-icon.svg" alt="Gradle" width="48" height="48" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/icons/gradle-icon-dark.svg" />
+          <img src="assets/icons/gradle-icon.svg" alt="Gradle" width="48" height="48" />
+        </picture>
         <br>Gradle
       </td>
     </tr>
