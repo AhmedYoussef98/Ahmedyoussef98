@@ -76,6 +76,28 @@
         <br>Vite
       </td>
     </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="48" height="48" />
+        <br>Kotlin
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48" height="48" />
+        <br>Spring Boot
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/liquibase/2962FF" alt="Liquibase" width="48" height="48" />
+        <br>Liquibase
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="48" height="48" />
+        <br>Gradle
+      </td>
+    </tr>
   </table>
 </div>
 
