@@ -40,15 +40,6 @@
               y: 80px;
             }
           }
-
-          #js-icon {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 100px;
-            height: 100px;
-          }
           .js-cup {
             fill: transparent;
             stroke: #0276C6;
